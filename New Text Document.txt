@@ -1,0 +1,24 @@
+- T: Mua dau goi 
+- T: 18 hoc bu HTTM - KPDL
+- T: 12 (18/11/2017)	Clustering (part I)	315 B1 (session 7-8-9) - HOC bu KPDL
+- T: 16/17 thang 11 lam bao hiem y te
+- vi ai?
+- hai hanh dong lien tiep nhau-QKD; hai hanh dong song song 
+- T: doc va tim hieu trang nay : https://en.wikipedia.org/wiki/Softmax_function
+- T: Tim nhom btl HTTM
+- T: thuc tap
+- T: mua o cung roi cho Nhi
+- T: on anh van + hoi CMND
+- T: lam Thuyet trinh khai pha du lieu
+- T: Thanh toan hoc phi
+      17/10/2017 - 15g00 23/10/2017 
+      07/11/2017 - 15g00 04/12/2017
+- T: tombsons and lock-and-keys giai quyet darling
+- T: Lam Do an
+- T: BTL NP
+- T: tuan 3, mail thay Sach, lam bai
+bk-ai.slack.com
+chanel: 2017_fall_httm
+linh vu thien ha
+ben em la bien rong
+res.get
